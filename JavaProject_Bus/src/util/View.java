@@ -1,0 +1,10 @@
+package util;
+
+
+public enum View {
+	HOME, 
+	ADMIN, MEMBER,
+	RESERVE, CHECK, CANCLE, RESERVE_LIST,
+	TICKET_CREATE, TICKET_LIST, REVCHANGE
+	
+}
